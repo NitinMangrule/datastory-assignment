@@ -21,6 +21,6 @@ A data visualization dashboard built with **Next.js**, **TypeScript**, **Chakra 
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/nitin-mangrule/datastory-dashboard.git
-cd datastory-dashboard
+git clone [https://github.com/nitin-mangrule/datastory-dashboard.git](https://github.com/NitinMangrule/datastory-assignment)
+cd datastory-assignment
 ```
