@@ -73,6 +73,8 @@ Introduce reusable layout components and global styles
 
 Add proper accessibility and keyboard navigation support
 
+Update to the latest version of Next.js, but due to errors encountered, I have used Next.js 13 for the implementation.
+
 ## ⚖️ Key decisions and trade-offs
 Chakra UI version downgrade:
 The latest Chakra UI (v3.x) has peer dependency conflicts with React 17 and caused type errors when used alongside Next.js.
@@ -81,3 +83,9 @@ To ensure compatibility and avoid breaking changes, I used:
 "@chakra-ui/react": "1.4.2",
 "@chakra-ui/icons": "1.0.5",
 "@chakra-ui/theme-tools": "1.1.2"
+
+
+
+
+
+
