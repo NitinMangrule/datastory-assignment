@@ -32,16 +32,11 @@ A data visualization dashboard built with **Next.js**, **TypeScript**, **Chakra 
 
 
 2. **Install Dependencies**
-bash
-Copy
-Edit
 npm install
 
 3. **Run the Development Server**
-bash
-Copy
-Edit
 npm run dev
+
 
 4. **Open in Browser**
 Visit http://localhost:3000 to view the dashboard.
@@ -80,12 +75,7 @@ Chakra UI version downgrade:
 The latest Chakra UI (v3.x) has peer dependency conflicts with React 17 and caused type errors when used alongside Next.js.
 To ensure compatibility and avoid breaking changes, I used:
 
+```bash
 "@chakra-ui/react": "1.4.2",
 "@chakra-ui/icons": "1.0.5",
 "@chakra-ui/theme-tools": "1.1.2"
-
-
-
-
-
-
