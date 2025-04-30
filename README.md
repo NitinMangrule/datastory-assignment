@@ -4,9 +4,9 @@ A data visualization dashboard built with **Next.js**, **TypeScript**, **Chakra 
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo
 
-[![Demo Video](./assets/demo-thumbnail.jpg)](./assets/Demo.mov)
+[![Demo Gif](./assets/Demo.gif)](./assets/Demo.gif)
 
 ---
 
